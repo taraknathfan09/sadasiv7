@@ -11,7 +11,7 @@ def main():
         Return value: list
     '''
     if len(sys.argv) != 2:
-        print("Usage: url_extractor.py <URL>")
+        print("Usage: pyurl7.py <URL>")
         sys.exit(1)
 
     url = sys.argv[1]
